@@ -1,6 +1,6 @@
 # Awadhoot Shrikant Jog
 
-phone: + 91 8080128050 | city: Bengaluru, IN | email: jawadhoot@gmail.com
+phone: + 91 8080128050 | city: Dombivli, IN | email: jawadhoot@gmail.com
  
 ## Summary
 
@@ -31,7 +31,7 @@ Awarded Outstanding Performer for 4 consecutive years
  
 ## Technical Skills
 
-### Web Development
+### Full Stack Development
 
 Java | Python | JavaScript | MongoDB | MySQL
 
@@ -47,7 +47,7 @@ Load Runner | JMeter | Dynatrace
 
 ### OSC RnD Portfolio
 
-*Windows, Ansible, Linux*
+*Ansible, Application Management*
 
 *Team Size: 3 | Role: Application Owner | Duration: Mar 2019 - Nov 2019, 9 months*
 
@@ -90,7 +90,7 @@ Migrations of Bigdata application to AWS cloud infrastructure, facilitating auto
 
 ### CI for Performance Testing
 
-*LoadRunner, Performance Centre, Dynatrace, Python, Jenkins*
+*LoadRunner, Performance Centre, Dynatrace, Python, JavaScript*
 
 *Team Size: 8 | Role: Application Developer | Duration: Oct 2016 - Nov 2017, 1 year 2 months*
 
