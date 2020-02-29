@@ -4,8 +4,8 @@ phone: + 91 8080128050 | city: Dombivli, IN | email: jawadhoot@gmail.com
  
 ## Summary
 
+1+ as Application Owner for RnD Application.
 5+ Years of experience in Application and Web Development.
-Played various roles as Full Stack Engineer, and Cloud Engineer, Dev-ops Engineer, Application Owner.
 Ability to comprehend problems quickly, and provide efficient solution.
 Proactive and clear communication skills.
 Excellent time management by prioritising tasks and focused working.
@@ -31,23 +31,23 @@ Awarded Outstanding Performer for 4 consecutive years
  
 ## Technical Skills
 
-### Full Stack Development
+### Solution Analyst
 
-Java | Python | JavaScript | MongoDB | MySQL
+Application Management | Solution Design | System Design
+
+### Full Stack Developer
+
+Java | Python | JavaScript | MongoDB | MySQL | JMeter | Selenium
 
 ### Dev-ops
 
-Docker | Ansible | Drone.io | Jenkins | AWS
+Docker | Ansible | Drone.io | AWS
 
-### Performance Engineering
-
-Load Runner | JMeter | Dynatrace
- 
 ## Projects
 
 ### OSC RnD Portfolio
 
-*Ansible, Application Management*
+*Solution Analysis, Application Management*
 
 *Team Size: 3 | Role: Application Owner | Duration: Mar 2019 - Nov 2019, 9 months*
 
@@ -55,15 +55,15 @@ RnD portfolio compromise of 7 application, used by Food tech Scientist, 1 open s
 
 - Migration of application from on-premise to cloud.
 - Deployment of Dev environment for Application in development.
-- Sizing of infrastructure requirement for all application.
 - Governing of policies regarding application security, application upgrades.
+- System Designing for Bussiness and Applciation needs.
 - Assisting solution Owner, solution Architect, project managers in decision-making.
 
 ### CI/CD Pipeline
 
-*GitHub enterprise, drone.io, waffle.io, AWS*
+*GitHub enterprise, drone.io, Agile, AWS*
 
-*Team Size: 4 | Role: - Engineer | Duration: Sep 2018 - Feb 2019, 6 months*
+*Team Size: 4 | Role: - Full Stack Engineer | Duration: Sep 2018 - Feb 2019, 6 months*
 
 Project to showcase End to End - Pipeline, from user story to prod deployment. Extensive documentation of each stage of this, from user story creation, branch strategies, deployments, and testing.
 
