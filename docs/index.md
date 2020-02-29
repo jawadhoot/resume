@@ -4,8 +4,8 @@ phone: + 91 8080128050 | city: Dombivli, IN | email: jawadhoot@gmail.com
  
 ## Summary
 
-1+ as Application Owner for RnD Application.
-5+ Years of experience in Application and Web Development.
+1+ years as Application Owner for RnD Application.
+5+ years of experience in Application and Web Development.
 Ability to comprehend problems quickly, and provide efficient solution.
 Proactive and clear communication skills.
 Excellent time management by prioritising tasks and focused working.
