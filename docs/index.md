@@ -47,7 +47,7 @@ Docker | Ansible | Drone.io | AWS
 
 ### OSC RnD Portfolio
 
-*Solution Analysis, Application Management*
+*Solution Analysis, Application Management, Python*
 
 *Team Size: 3 | Role: Application Owner | Duration: Mar 2019 - Nov 2019, 9 months*
 
@@ -103,7 +103,7 @@ Framework for enabling continuous integration of Aircraft maintenance applicatio
 
 ### Mobile Performance Analysis Tool
 
-*Java, MySQL, D3.js, ADB, JavaScript*
+*Java, MySQL, D3.js, ADB, JavaScript, Flask*
 
 *Team Size: 2 | Role: Full Stack Engineer | Duration: Jan 2016 - Sep 2016, 9 months*
 
@@ -114,7 +114,7 @@ Tool for analysing performance of mobile app, using metrics associated with CPU,
 
 ### End User Experience Testing
 
-*Java, MongoDB, D3.js, WebPageTest, JavaScript*
+*Java, MongoDB, D3.js, WebPageTest, JavaScript, Flask*
 
 *Team Size: 1 | Role: Full Stack Engineer | Duration: Sep 2014 - Dec 2015, 1 year 4 months*
 
