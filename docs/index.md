@@ -33,15 +33,15 @@ Awarded Outstanding Performer for 4 consecutive years
 
 ### Solution Analyst
 
-Application Management | Solution Design | System Design
+Application Management | System Design
 
 ### Full Stack Developer
 
-Java | Python | JavaScript | MongoDB | MySQL | JMeter | Selenium
+Java | Python | JavaScript | MongoDB | JMeter | Selenium
 
 ### Dev-ops
 
-Docker | Ansible | Drone.io | AWS
+Docker | Drone.io | AWS
 
 ## Projects
 
@@ -90,7 +90,7 @@ Migrations of Bigdata application to AWS cloud infrastructure, facilitating auto
 
 ### CI for Performance Testing
 
-*LoadRunner, Dynatrace, Python, JavaScript*
+*LoadRunner, Dynatrace, Python, Jmeter, JavaScript*
 
 *Team Size: 8 | Role: Application Developer | Duration: Oct 2016 - Nov 2017, 1 year 2 months*
 
