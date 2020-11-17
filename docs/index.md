@@ -4,14 +4,19 @@ phone: + 91 8080128050 | city: Dombivli, IN | email: jawadhoot@gmail.com
 
 ## Summary
 
-1+ years as Application Owner for RnD Application.
-5+ years of experience in Application and Web Development.
-Developed 3 application for performance testing team.
-Migrated 3 on-premise application to cloud, using Lift and Shift approach.
-Showcased End-to-end application development lifecycle using a model project using agile methodology.
-Provided technical assistance in customising 2 Enterprise Applications.
-
+- Currently working as Independent Game Developer.
+- 1+ years as Application Owner for Food RnD Application.
+- 5+ years of experience in Application and Web Development.
+- Developed 3 application for performance testing team.
+- Migrated 3 on-premise application to cloud, using Lift and Shift approach.
+- Showcased End-to-end application development lifecycle using a model project following agile methodology.
+- Provided technical assistance in customising 2 Enterprise Applications for Food RnD Team.
+  
 ## Experience
+
+### Independent, Dombivli
+
+*Game Developer  | Mar 2020 - Present*
 
 ### Cargill Business Services, Bengaluru
 
@@ -31,19 +36,32 @@ Awarded Outstanding Performer for 4 consecutive years
 
 ## Technical Skills
 
+### Game Developer
+
+Godot Engine | Pixel Art
+
 ### Solution Analyst
 
 Application Management | System Design
 
 ### Full Stack Developer
 
-Java | Python | JavaScript | MongoDB | JMeter | Selenium
-
-### Dev-ops
-
-Docker | Drone.io | AWS
+Java | Python | JavaScript | MongoDB | JMeter | Selenium | Docker
 
 ## Projects
+
+### Royal Invitation
+
+*Godot Engine, Pixel Art*
+
+*Team Size: 1 | Role: Game Designer | Duration: Mar 2020 - Present*
+
+Royal Invitation is a 2D top-down point-and-click, story-based adventure game. It has Inventory system, exploration, achievement and turn-based action.
+
+- Design and Build core game mechanics.
+- Source sprites and music for the game.
+- Create additional pixel sprites.
+- Add Steam DRM to the game.
 
 ### OSC RnD Portfolio
 
@@ -53,11 +71,11 @@ Docker | Drone.io | AWS
 
 RnD portfolio compromise of 7 application, used by Food tech Scientist, 1 open source application, 3 proprietary applications, 3 commercial-off-the-shelf (COTS) packaged solutions. 4 application are in production and 3 COTS are in customization phase.
 
-- Migration of application from on-premise to cloud.
-- Deployment of Dev environment for Application in development.
-- Governing of policies regarding application security, application upgrades.
+- Migrate application from on-premise to cloud.
+- Design and Deploy Dev environment for Application in development.
+- Govern policies for application security and application upgrades.
 - System Designing for Business and Application needs.
-- Assisting solution Owner, solution Architect, project managers in decision-making.
+- Analyse technical impact, solution architects, project managers in decision-making.
 
 ### CI/CD Pipeline
 
@@ -67,26 +85,12 @@ RnD portfolio compromise of 7 application, used by Food tech Scientist, 1 open s
 
 Project to showcase End to End - Pipeline, from user story to prod deployment. Extensive documentation of each stage of this, from user story creation, branch strategies, deployments, and testing.
 
-- Create user stories, document template stories for issues, feature requests and enhancements.
-- Building model branching strategies.
+- Create template for user stories, issues, feature requests and enhancements.
+- Create comprehensive document for branching strategies.
 - Integrate Code coverage plugins.
-- Automate UI and Performance testing.
+- Integrate UI and Performance testing.
 - Strategies Dev, Stage and Prod Deployments.
 - Build dev-test work model for teams.
-
-### Cloud Migration to AWS
-
-*S3, EC2, IAM, shell scripting*
-
-*Team Size: 2 | Role: Cloud Engineer | Duration: Dec 2017 - June 2018, 7 months*
-
-Migrations of Bigdata application to AWS cloud infrastructure, facilitating automated deployment of application and quick delivery, auto scaling, keeping costs under control.
-
-- Maintain IAM roles and infrastructure security
-- Manage S3 buckets and benchmark data transfer across system
-- Create EC2 Clusters for deployment of BigData tools
-- Automate EC2 deployment via shell scripting, enabling continuous deployment
-- Benchmark application performance and suggest improvements
 
 ### CI for Performance Testing
 
@@ -96,8 +100,8 @@ Migrations of Bigdata application to AWS cloud infrastructure, facilitating auto
 
 Framework for enabling continuous integration of Aircraft maintenance application.
 
-- Build framework for execution of performance test and reporting.
-- Automate data generation, validation of workload model.
+- Build framework for execution of performance tests and reporting.
+- Automate data generation, workload model validation.
 - Build framework for analysis of Dynatrace data, application logs and system logs, Kafka logs.
 - Integrate framework with build tools enabling continuous integration.
 
