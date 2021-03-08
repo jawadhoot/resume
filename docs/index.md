@@ -5,12 +5,12 @@ phone: + 91 8080128050 | city: Dombivli, IN | email: jawadhoot@gmail.com
 ## Summary
 
 - Currently working as Independent Game Developer.
-- 1+ years as Application Owner for Food RnD Application.
+- Worked 1+ years as Application Owner for Food RnD Applications.
 - 5+ years of experience in Application and Web Development.
 - Developed 3 application for performance testing team.
 - Migrated 3 on-premise application to cloud, using Lift and Shift approach.
-- Showcased End-to-end application development lifecycle using a model project following agile methodology.
-- Provided technical assistance in customising 2 Enterprise Applications for Food RnD Team.
+- Showcased End-to-end application development lifecycle using a model project by following agile methodology.
+- Provided technical assistance in customizing 2 Enterprise Applications for Food RnD Team.
   
 ## Experience
 
@@ -25,8 +25,6 @@ phone: + 91 8080128050 | city: Dombivli, IN | email: jawadhoot@gmail.com
 ### Mindtree Ltd, Bengaluru
 
 *Senior Engineer | Sep 2014 - Sep 2018*
-
-Awarded Outstanding Performer for 4 consecutive years
 
 ## Education
 
@@ -46,7 +44,7 @@ Application Management | System Design
 
 ### Full Stack Developer
 
-Java | Python | JavaScript | MongoDB | JMeter | Selenium | Docker
+Java | Python | MySql | JMeter
 
 ## Projects
 
@@ -56,12 +54,12 @@ Java | Python | JavaScript | MongoDB | JMeter | Selenium | Docker
 
 *Team Size: 1 | Role: Game Designer | Duration: Mar 2020 - Present*
 
-Royal Invitation is a 2D top-down point-and-click, story-based adventure game. It has Inventory system, exploration, achievement and turn-based action.
+Royal Invitation is a 2D, top-down, point-and-click, story-based adventure game. It has Inventory system, Exploration, Achievements and turn-based action.
 
 - Design and Build core game mechanics.
 - Source sprites and music for the game.
 - Create additional pixel sprites.
-- Add Steam DRM to the game.
+- Integrate DRMs into the game.
 
 ### OSC RnD Portfolio
 
@@ -69,13 +67,12 @@ Royal Invitation is a 2D top-down point-and-click, story-based adventure game. I
 
 *Team Size: 3 | Role: Application Owner | Duration: Mar 2019 - Nov 2019, 9 months*
 
-RnD portfolio compromise of 7 application, used by Food tech Scientist, 1 open source application, 3 proprietary applications, 3 commercial-off-the-shelf (COTS) packaged solutions. 4 application are in production and 3 COTS are in customization phase.
+RnD portfolio compromise of 7 applications used by Food tech Scientists, 1 open source application, 3 proprietary applications, 3 commercial-off-the-shelf (COTS) packaged solutions. 4 application are in production and 3 COTS are in customization phase.
 
 - Migrate application from on-premise to cloud.
-- Design and Deploy Dev environment for Application in development.
-- Govern policies for application security and application upgrades.
-- System Designing for Business and Application needs.
-- Analyse technical impact, solution architects, project managers in decision-making.
+- Design and deploy development environment for application in development.
+- Govern policies for application security and application upgrades and maintenance.
+- Analyse technical impact of changes and assist project managers in decision-making.
 
 ### CI/CD Pipeline
 
@@ -83,7 +80,7 @@ RnD portfolio compromise of 7 application, used by Food tech Scientist, 1 open s
 
 *Team Size: 4 | Role: - Full Stack Engineer | Duration: Sep 2018 - Feb 2019, 6 months*
 
-Project to showcase End to End - Pipeline, from user story to prod deployment. Extensive documentation of each stage of this, from user story creation, branch strategies, deployments, and testing.
+Project to showcase End to End application development pipeline, from user story to production deployment.
 
 - Create template for user stories, issues, feature requests and enhancements.
 - Create comprehensive document for branching strategies.
@@ -96,13 +93,13 @@ Project to showcase End to End - Pipeline, from user story to prod deployment. E
 
 *LoadRunner, Dynatrace, Python, Jmeter, JavaScript*
 
-*Team Size: 8 | Role: Application Developer | Duration: Oct 2016 - Nov 2017, 1 year 2 months*
+*Team Size: 1 | Role: Application Developer | Duration: Oct 2016 - Nov 2017, 1 year 2 months*
 
-Framework for enabling continuous integration of Aircraft maintenance application.
+Framework for enabling continuous integration of Performance testing for Aircraft Maintenance application.
 
 - Build framework for execution of performance tests and reporting.
 - Automate data generation, workload model validation.
-- Build framework for analysis of Dynatrace data, application logs and system logs, Kafka logs.
+- Build framework for analyzing Dynatrace data, application logs and system logs.
 - Integrate framework with build tools enabling continuous integration.
 
 ### Mobile Performance Analysis Tool
@@ -111,11 +108,11 @@ Framework for enabling continuous integration of Aircraft maintenance applicatio
 
 *Team Size: 2 | Role: Full Stack Engineer | Duration: Jan 2016 - Sep 2016, 9 months*
 
-Tool for analysing performance of mobile app, using metrics associated with CPU, memory, graphics, and network usage. Automated test executions using Appium. Generating Report for executions. Trending of results across builds.
+Tool for analyzing performance of mobile apps, using metrics associated with CPU, memory, graphics, and network usage. Automated test executions using Appium. Generating Report for executions. Trending of results across builds.
 
 - Conduct POC for adb protocol for Android and libimobiledevice for iOS
-- Develop Web UI for running, monitoring, and analysing tests
-- Create REST API backend to sever test, results, and report
+- Develop Web UI for running, monitoring, and analyzing tests
+- Create RESTful backend services for tests, results, and reports
 
 ### End User Experience Testing
 
@@ -123,9 +120,8 @@ Tool for analysing performance of mobile app, using metrics associated with CPU,
 
 *Team Size: 1 | Role: Full Stack Engineer | Duration: Sep 2014 - Dec 2015, 1 year 4 months*
 
-Application for scheduling and executing End User Experience tests on WebPageTest platform. UI for analysing results through slicing and dicing results. Automated analysis of result from multiple locations and browsers across builds with facility to download weekly performance report.
+Application for scheduling and executing End User Experience tests on WebPageTest platform. UI for analyzing results through slicing and dicing results. Automated analysis of result from multiple locations, browsers, and builds with facility to download weekly performance reports.
 
-- Develop APIs for planning, executing, and analysing tests
+- Develop APIs for planning, executing, and analyzing tests
 - Build a Single Page Web Interface for managing tests
-- Create dashboard for representing test results
-- Create analysis and reporting framework for further analysing of tests
+- Create dashboard for test results
