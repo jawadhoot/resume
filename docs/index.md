@@ -42,7 +42,7 @@ Application Management | System Design
 
 Java | Python | MySql
 
-### Frontend Tencnologies
+### Frontend Technologies
 
 JavaScript | Bootstrap | nvd3.js
 
