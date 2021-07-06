@@ -34,17 +34,17 @@ phone: + 91 8080128050 | city: Dombivli, IN | email: jawadhoot@gmail.com
 
 ## Technical Skills
 
-### Game Developer
-
-Godot Engine | Pixel Art
-
 ### Solution Analyst
 
 Application Management | System Design
 
-### Full Stack Developer
+### Backend Technologies
 
-Java | Python | MySql | JMeter
+Java | Python | MySql
+
+### Frontend Tencnologies
+
+JavaScript | Bootstrap | nvd3.js
 
 ## Projects
 
@@ -52,7 +52,7 @@ Java | Python | MySql | JMeter
 
 *Godot Engine, Pixel Art*
 
-*Team Size: 1 | Role: Game Designer | Duration: Mar 2020 - Present*
+*Team Size: 2 | Role: Game Designer | Duration: Mar 2020 - Present*
 
 Royal Invitation is a 2D, top-down, point-and-click, story-based adventure game. It has Inventory system, Exploration, Achievements and turn-based action.
 
