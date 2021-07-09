@@ -10,7 +10,7 @@ phone: + 91 8080128050 | city: Dombivli, IN | email: jawadhoot@gmail.com
 - Developed 3 application for performance testing team.
 - Migrated 3 on-premise application to cloud, using Lift and Shift approach.
 - Showcased End-to-end application development lifecycle using a model project by following agile methodology.
-- Provided technical assistance in customizing 2 Enterprise Applications for Food RnD Team.
+- Application Owner for 7 Enterprise Applications in Food RnD Team.
   
 ## Experience
 
