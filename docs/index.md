@@ -6,11 +6,10 @@ phone: + 91 8080128050 | city: Dombivli, IN | email: jawadhoot@gmail.com
 
 - Currently working as Independent Game Developer.
 - Worked 1+ years as Application Owner for Food RnD Applications.
-- 5+ years of experience in Application and Web Development.
+- 5+ years of experience in Application and Web Development using Python and Bootstrap.
 - Developed 3 application for performance testing team.
 - Migrated 3 on-premise application to cloud, using Lift and Shift approach.
 - Showcased End-to-end application development lifecycle using a model project by following agile methodology.
-- Application Owner for 7 Enterprise Applications in Food RnD Team.
   
 ## Experience
 
@@ -40,7 +39,7 @@ Application Management | System Design
 
 ### Backend Technologies
 
-Java | Python | MySql
+Java | Python | MySql | Flask | PyTest
 
 ### Frontend Technologies
 
