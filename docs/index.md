@@ -6,7 +6,7 @@ phone: + 91 8080128050 | city: Dombivli, IN | email: jawadhoot@gmail.com
 
 - Currently working as IT Consultant for European Oil and Gas Company.
 - Worked 1+ years as Application Owner for Food RnD Applications.
-- 5+ years of experience in Application and Web Development using Python and Bootstrap.
+- 7+ years of experience in Application and Web Development using Python and Bootstrap.
 - Migrated 3 on-premise application to cloud, using Lift and Shift approach.
 - Showcased End-to-end application development lifecycle using a model project by following agile methodology.
   
@@ -42,13 +42,13 @@ MongoDB | MySql | Python | Flask | Django | Pandas
 
 ### Frontend Technologies
 
-JavaScript | Bootstrap | d3.js
+ReactJS | Bootstrap | d3.js
 
 ## Projects
 
 ### Data platform App
 
-*Django, Pandas, Azure Devops*
+*ReactJS, Django, Pandas, Azure Devops*
 
 *Team Size: 2 | Role: Python Developer | Duration: Jul 2021 - Present*
 
