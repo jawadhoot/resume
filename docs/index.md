@@ -1,10 +1,10 @@
 # Awadhoot Shrikant Jog
 
-phone: + 91 8080128050 | city: Dombivli, IN | email: jawadhoot@gmail.com
+phone: + 91 8080128050 | city: Panjim, IN | email: jawadhoot@gmail.com
 
 ## Summary
 
-- Currently working as IT Consultant for European Oil and Gas Company.
+- Currently working as Data engineer for European Oil and Gas Company.
 - Worked 1+ years as Application Owner for Food RnD Applications.
 - 7+ years of experience in Application and Web Development using Python and Bootstrap.
 - Migrated 3 on-premise application to cloud, using Lift and Shift approach.
@@ -46,17 +46,17 @@ ReactJS | Bootstrap | d3.js
 
 ## Projects
 
-### Data platform App
+### Data platform Engineering
 
 *ReactJS, Django, Pandas, Azure Devops*
 
-*Team Size: 2 | Role: Python Developer | Duration: Jul 2021 - Present*
+*Team Size: 6 | Role: Full Stack Engineer | Duration: Jul 2021 - Present*
 
-Application for engineers to analyse seismic data using existing data model for exploration.
+Developed Web Applications for Reservoir Engineers to analyse data for exploration and decline curve analysis.
 
-- Translate jupyter notebook to Python library.
-- Design and Build web application over the library.
-- Design data pipeline for the application.
+- Translate jupyter notebooks to Python libraries.
+- Design and build multi-user, multi-tenant web application over the library.
+- Design data pipeline job processing.
 - Integrate application with existing data services.
 
 ### OSC RnD Portfolio
@@ -68,9 +68,9 @@ Application for engineers to analyse seismic data using existing data model for 
 RnD portfolio compromise of 7 applications used by Food tech Scientists, 1 open source application, 3 proprietary applications, 3 commercial-off-the-shelf (COTS) packaged solutions. 4 application are in production and 3 COTS are in customization phase.
 
 - Migrate application from on-premise to cloud.
-- Design and deploy development environment for application in development.
-- Govern policies for application security and application upgrades and maintenance.
-- Analyse technical impact of changes and assist project managers in decision-making.
+- Design and deploy development environment for applications in development.
+- Develop and govern policies for security, upgrades and maintenance.
+- Analyse technical impact of change requests and assist project managers in prioritization.
 
 ### CI/CD Pipeline
 
@@ -86,19 +86,6 @@ Project to showcase End to End application development pipeline, from user story
 - Integrate UI and Performance testing.
 - Strategies Dev, Stage and Prod Deployments.
 - Build dev-test work model for teams.
-
-### CI for Performance Testing
-
-*JavaScript, Python, Jmeter*
-
-*Team Size: 1 | Role: Application Developer | Duration: Oct 2016 - Nov 2017, 1 year 2 months*
-
-Framework for enabling continuous integration of Performance testing for Aircraft Maintenance application.
-
-- Build framework for execution of performance tests and reporting.
-- Automate data generation, workload model validation.
-- Build framework for analysing Dynatrace data, application logs and system logs.
-- Integrate framework with build tools enabling continuous integration.
 
 ### Mobile Performance Analysis Tool
 
