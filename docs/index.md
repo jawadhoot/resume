@@ -48,14 +48,15 @@ ReactJS | Bootstrap | d3.js
 
 ### Data platform Engineering
 
-*ReactJS, Django, Pandas, Azure Devops*
+*ReactJS, Django, Pandas, Azure Devops, AWS*
 
 *Team Size: 6 | Role: Full Stack Engineer | Duration: Jul 2021 - Present*
 
-Developed Web Applications for Reservoir Engineers to analyse data for exploration and decline curve analysis.
+Developed SaaS applications for Reservoir Engineers to analyse data for exploration and decline curve analysis.
 
+- Take complete ownership of backend development and deployment.
 - Translate jupyter notebooks to Python libraries.
-- Design and build multi-user, multi-tenant web application over the library.
+- Design and build multi-user, multi-tenant Application over the library.
 - Design data pipeline job processing.
 - Integrate application with existing data services.
 
