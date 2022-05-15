@@ -50,13 +50,13 @@ ReactJS | Bootstrap | d3.js
 
 *ReactJS, Django, Pandas, Azure Devops, AWS*
 
-*Team Size: 6 | Role: Full Stack Engineer | Duration: Jul 2021 - Present*
+*Team Size: 3 | Role: Full Stack Engineer | Duration: Jul 2021 - Present*
 
 Developed SaaS applications for Reservoir Engineers to analyse data for exploration and decline curve analysis.
 
 - Take complete ownership of backend development and deployment.
-- Translate jupyter notebooks to Python libraries.
-- Design and build multi-user, multi-tenant Application over the library.
+- Translate and validate data for regression.
+- Design and build multi-user, multi-tenant application over the regression.
 - Design data pipeline job processing.
 - Integrate application with existing data services.
 
