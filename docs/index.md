@@ -93,7 +93,7 @@ Project to showcase End to End application development pipeline, from user story
 *D3.js, JavaScript, Flask, Python, MongoDB*
 
 *Team Size: 2 | Role: Full Stack Engineer | Duration: Jan 2016 - Sep 2016, 9 months*
-m
+
 Tool for analysing performance of mobile apps, using metrics associated with CPU, memory, graphics, and network usage. Automated test executions using Appium. Generating Report for executions. Trending of results across builds.
 
 - Conduct POC for adb protocol for Android and libimobiledevice for iOS
