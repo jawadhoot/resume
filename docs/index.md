@@ -1,12 +1,12 @@
-# Awadhoot Shrikant Jog
+# Awadhoot Jog
 
 phone: + 91 8080128050 | city: Panjim, IN | email: jawadhoot@gmail.com
 
 ## Summary
 
-- Currently working as Data engineer for European Oil and Gas Company.
+- Currently working as lead consultant for European Oil and Gas Company.
 - Worked 1+ years as Application Owner for Food RnD Applications.
-- 7+ years of experience in Application and Web Development using Python and Bootstrap.
+- 8+ years of experience in Application and Web Development using Python and Bootstrap.
 - Migrated 3 on-premise application to cloud, using Lift and Shift approach.
 - Showcased End-to-end application development lifecycle using a model project by following agile methodology.
   
@@ -38,7 +38,7 @@ Application Management | System Design
 
 ### Backend Technologies
 
-MongoDB | MySql | Python | Flask | Django | Pandas
+MySql | Python | Django | Pandas | pyvista
 
 ### Frontend Technologies
 
@@ -46,19 +46,19 @@ ReactJS | Bootstrap | d3.js
 
 ## Projects
 
-### Data platform Engineering
+### Subsurface Research and Development
 
-*ReactJS, Django, Pandas, Azure Devops, AWS*
+*ReactJS, Django, Pandas, pyvista, Azure Devops, AWS*
 
-*Team Size: 3 | Role: Full Stack Engineer | Duration: Jul 2021 - Present*
+*Team Size: 5 | Role: Team Lead | Duration: Jul 2021 - Present*
 
-Developed SaaS applications for Reservoir Engineers to analyse data for exploration and decline curve analysis.
+Developed SaaS, desktop applications for Reservoir Engineers to analyse data for exploration, decline curve analysis and well optimization.
 
 - Take complete ownership of backend development and deployment.
 - Translate and validate data for regression.
-- Design and build multi-user, multi-tenant application over the regression.
-- Design data pipeline job processing.
-- Integrate application with existing data services.
+- Design and build multi-user, multi-tenant applications over the regression and algorithms.
+- 3D visualize unstructured grid, with filtering, clipping, and interaction.
+- Integrate application with existing services.
 
 ### OSC RnD Portfolio
 
