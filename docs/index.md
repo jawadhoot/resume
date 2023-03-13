@@ -4,7 +4,7 @@ phone: + 91 8080128050 | city: Panjim, IN | email: jawadhoot@gmail.com
 
 ## Summary
 
-- Currently working as lead consultant for European Oil and Gas Company.
+- Currently working as Tech Lead and managing team of 5 developers for European Oil and Gas Company.
 - Worked 1+ years as Application Owner for Food RnD Applications.
 - 8+ years of experience in Application and Web Development using Python and Bootstrap.
 - Migrated 3 on-premise application to cloud, using Lift and Shift approach.
@@ -32,10 +32,6 @@ phone: + 91 8080128050 | city: Panjim, IN | email: jawadhoot@gmail.com
 
 ## Technical Skills
 
-### Solution Analyst
-
-Application Management | System Design
-
 ### Backend Technologies
 
 MySql | Python | Django | Pandas | pyvista
@@ -43,6 +39,10 @@ MySql | Python | Django | Pandas | pyvista
 ### Frontend Technologies
 
 ReactJS | Bootstrap | d3.js
+
+### Cloud
+
+AWS | Azure
 
 ## Projects
 
@@ -55,7 +55,7 @@ ReactJS | Bootstrap | d3.js
 Developed SaaS, desktop applications for Reservoir Engineers to analyse data for exploration, decline curve analysis and well optimization.
 
 - Take complete ownership of backend development and deployment.
-- Translate and validate data for regression.
+- Mentor junior developer and manage their performance.
 - Design and build multi-user, multi-tenant applications over the regression and algorithms.
 - 3D visualize unstructured grid, with filtering, clipping, and interaction.
 - Integrate application with existing services.
