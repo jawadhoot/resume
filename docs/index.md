@@ -1,20 +1,22 @@
 # Awadhoot Jog
 
-phone: + 91 8080128050 | city: Panjim, IN | email: jawadhoot@gmail.com
+phone: + 91 8080128050 | city: Bengaluru, IN | email: jawadhoot@gmail.com
 
 ## Summary
 
-- Currently working as Tech Lead and managing team of 5 developers for European Oil and Gas Company.
-- Worked 1+ years as Application Owner for Food RnD Applications.
+- Currently working as Technical Solution Architect for SmartQ.
 - 8+ years of experience in Application and Web Development using Python and Bootstrap.
-- Migrated 3 on-premise application to cloud, using Lift and Shift approach.
 - Showcased End-to-end application development lifecycle using a model project by following agile methodology.
   
 ## Experience
 
+### Bottle Lab Technologies (SmartQ), Bengaluru
+
+*Technical Solution Architect | May 2023 - Present*
+
 ### LanceSoft Inc, Remote
 
-*Lead Consultant | Jul 2021 - Present*
+*Lead Consultant | Jul 2021 - April 2023*
 
 ### Cargill Business Services, Bengaluru
 
@@ -40,17 +42,25 @@ MySql | Python | Django | Pandas | pyvista
 
 ReactJS | Bootstrap | d3.js
 
-### Cloud
-
-AWS | Azure
-
 ## Projects
+
+### Data Pipelines
+
+*Apache Beam, GCP workflow, GCP  Dataflow*
+
+*Team Size: 2 | Role: Solution Architect | Duration: May 2023 - Present*
+
+Designed Resilient, idempotent data pipeline using GCP Dataflow, Workflow, BigQuery
+
+- Modular pipelines, with intermediate outputs staged into cloud storage
+- Workflows to orchestrate pipelines and run as a single flow
+- Ability to restart pipeline only for errored data, after fixes
 
 ### Subsurface Research and Development
 
 *ReactJS, Django, Pandas, pyvista, Azure Devops, AWS*
 
-*Team Size: 5 | Role: Team Lead | Duration: Jul 2021 - Present*
+*Team Size: 5 | Role: Team Lead | Duration: Jul 2021 - April 2023*
 
 Developed SaaS, desktop applications for Reservoir Engineers to analyse data for exploration, decline curve analysis and well optimization.
 
