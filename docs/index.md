@@ -4,9 +4,10 @@ phone: + 91 8080128050 | city: Bengaluru, IN | email: jawadhoot@gmail.com
 
 ## Summary
 
-- Currently working as Technical Solution Architect for SmartQ.
-- 8+ years of experience in Application and Web Development using Python and Bootstrap.
-- Showcased End-to-end application development lifecycle using a model project by following agile methodology.
+- Python Developer with 8+ years of experience in Application and Web Development.
+- My focus is diciplined coding and delivering stable product.
+- I love to work on POCs as it encourages me to read a lot.
+- Currently dabbling with AI/ML and Data Engineering.
   
 ## Experience
 
