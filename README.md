@@ -25,11 +25,13 @@ apache beam
 
 ## Education
 
-### Bachelor of Engineering
+### Shivaji University, Kolhapur
+
+August 2008 - May 2013
+
+**Bachelor of Engineering**
 
 Computer Science
-2008 - 2013
-Shivaji University, Kolhapur
 
 ## Experience
 
