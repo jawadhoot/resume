@@ -1,9 +1,7 @@
 # Awadhoot Jog
 
 phone:8080128050 
-
 location:Bengaluru, India
-
 email:<jawadhoot@gmail.com>
 
 ## Summary
