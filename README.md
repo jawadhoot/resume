@@ -1,7 +1,9 @@
 # Awadhoot Jog
 
-phone:8080128050
+phone:8080128050 
+
 location:Bengaluru, India
+
 email:<jawadhoot@gmail.com>
 
 ## Summary
@@ -15,33 +17,23 @@ email:<jawadhoot@gmail.com>
   
 ## Skills and Tools
 
-python
-django
-flask
-pandas
-pyvista
-htmx
-apache beam
+`python` `django` `flask` `pandas` `pyvista` `htmx` `apache beam`
 
 ## Education
 
 ### Shivaji University, Kolhapur
 
-August 2008 - May 2013
+**Bachelor of Engineering (Computer Science)**
 
-*Bachelor of Engineering*
-
-Computer Science
+*August 2008 - May 2013*
 
 ## Experience
 
 ### Bottle Lab Technologies, Bengaluru
 
-*Technical Solution Architect*
+**Technical Solution Architect**
 
-May 2023 - Present
-
-**Data Engineering Team**
+*May 2023 - Present*
 
 - Designed resilient, idempotent data pipeline using GCP Dataflow, Composer, Apache Beam, BigQuery
 - Modular pipelines, with intermediate outputs staged into cloud storage
@@ -49,11 +41,9 @@ May 2023 - Present
 
 ### LanceSoft Inc, Remote
 
-*Lead Consultant*
+**Lead Consultant**
 
-July 2021 - April 2023
-
-**Sub Surface Development**
+*July 2021 - April 2023*
 
 - Took complete ownership of backend development and deployment
 - Developed Multi-tenant, multi user Web, applications for Reservoir Engineers to analyze data for exploration, decline curve analysis and well optimization
@@ -61,29 +51,22 @@ July 2021 - April 2023
 
 ### Cargill Business Services, Bengaluru
 
-*Full Stack Engineer*
+**Full Stack Engineer**
 
-September 2018 - November 2019
-
-**Operation and Supply Chain**
+*September 2018 - November 2019*
 
 - Migrated 3 on-premises application to cloud.
 - Developed and governed policies for security, upgrade and maintenance of application
 - Analyzed technical impact of various change requests and prioritized backlog item by aligning with users' requirements
-
-**Open Source Development**
-
 - showcased End-to-End application development pipeline, from user story to production deployment.
 - Build strategies for Dev, Stage and Prod Deployments.
 - Provided documentation for each activity in agile process
 
 ### Mindtree Ltd, Bengaluru
 
-*Senior Engineer*
+**Senior Engineer**
 
-September 2014 - September 2018
-
-**Performance Testing CoE**
+*September 2014 - September 2018*
 
 - Conducted POC for adb protocol for Android and libimobiledevice for iOS to pull metrics associated with CPU, memory, graphics, and network usage
 - Developed Web UI for running, monitoring, and analyzing tests
