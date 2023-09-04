@@ -29,7 +29,7 @@ apache beam
 
 August 2008 - May 2013
 
-**Bachelor of Engineering**
+*Bachelor of Engineering*
 
 Computer Science
 
@@ -37,7 +37,7 @@ Computer Science
 
 ### Bottle Lab Technologies, Bengaluru
 
-Technical Solution Architect
+*Technical Solution Architect*
 
 May 2023 - Present
 
@@ -49,7 +49,7 @@ May 2023 - Present
 
 ### LanceSoft Inc, Remote
 
-Lead Consultant
+*Lead Consultant*
 
 July 2021 - April 2023
 
@@ -61,7 +61,7 @@ July 2021 - April 2023
 
 ### Cargill Business Services, Bengaluru
 
-Full Stack Engineer
+*Full Stack Engineer*
 
 September 2018 - November 2019
 
@@ -79,7 +79,7 @@ September 2018 - November 2019
 
 ### Mindtree Ltd, Bengaluru
 
-Senior Engineer
+*Senior Engineer*
 
 September 2014 - September 2018
 
